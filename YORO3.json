@@ -1,0 +1,7 @@
+{
+  "name": "Yoroi pool 3",
+  "description": "Yoroi pool 3",
+  "ticker": "YORO3",
+  "homepage": "https://yoroi-wallet.com/",
+  "extended": "https://emurgo.github.io/cardano-pool-metadata/YORO3-extended.json"
+}
