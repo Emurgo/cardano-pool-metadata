@@ -1,0 +1,7 @@
+{
+  "name": "EMURGO 6",
+  "description": "EMURGO Cardano pool",
+  "ticker": "EMUR6",
+  "homepage": "https://www.emurgo.io/",
+  "extended": "https://emurgo.github.io/cardano-pool-metadata/EMURGO-extended.json"
+}
